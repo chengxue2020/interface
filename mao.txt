@@ -33,6 +33,13 @@
       "playUrl": "",
       "filterable": 1
     },
+     {
+      "key": "afys_spider",
+      "name": "阿房影视1",
+      "type": 2,
+      "api": "Scrawl1",
+      "playUrl": ""
+    },
     {
       "key": "jpys_spider",
       "name": "极品影视(原内置)",
